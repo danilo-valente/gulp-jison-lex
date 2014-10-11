@@ -11,9 +11,10 @@
     "url": "git://github.com/danilo-valente/gulp-jison-lex.git"
   },
   "keywords": [
+    "gulpplugin",
+    "gulpfriendly",
     "gulp",
     "plugin",
-    "gulpplugin",
     "jison",
     "lex",
     "jisonlex",
