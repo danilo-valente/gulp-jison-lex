@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "ebnf-parser": "^0.1.10",
+    "extend": "^2.0.0",
     "gulp-util": "^3.0.1",
     "jison-lex": "^0.3.4",
     "lex-parser": "^0.1.4",
